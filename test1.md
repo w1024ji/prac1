@@ -1,0 +1,3 @@
+# git practice ...
+- remote. 
+- make files in local computer -> then upload to repository?
