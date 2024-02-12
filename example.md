@@ -7,3 +7,5 @@
 - git add forgotten_file
 - git commit --amend
 
+## How to change file state to Unstage
+
