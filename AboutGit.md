@@ -1,5 +1,6 @@
 # git remote 
 - make files in local computer -> then upload to repository?
+- 'git remote add 별명 ~.git
 
 # git clone
 - download existing project (which is on GitHub) to my local computer. 
