@@ -9,3 +9,6 @@
 
 ## How to change file state to Unstage
 
+## commit을 했는데 취소하고 싶을땐?
+- git reset --soft HEAD^
+- 의미: commit을 취소하고 해당 파일들은 staged 상태로 워킹 디렉터리에 보존
